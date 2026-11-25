@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi, I'm Noureddine Sbaa
 
-<!--
-**Sbaa-Noureddine/Sbaa-Noureddine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer & Automation Engineer focused on **client-side browser tools**, **WebAssembly / Canvas2D**, and **automated Python & Google Apps Script workflows**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Live Products
+- **[Orilami](https://orilami.com/)** — Privacy-first client-side document & image micro-tools (metadata removal, PDF forensics, auto-redaction, and structured conversion).
+- **[KioTools](https://kiotools.com/)** — Free browser-based platform with 100+ local-first utility tools (PDF, media, developer, SEO & security) powered by WebAssembly.
+
+---
+
+### Core Stack
+- **Web & Client-Side:** TypeScript, Next.js, Tailwind CSS, WebAssembly, Web Workers, HTML5 Canvas2D
+- **Automation & Scripting:** Python (Playwright, Pillow), Node.js, Google Apps Script
+- **Infrastructure:** Vercel, Cloudflare (Workers, DNS, WAF), Supabase (Postgres, RLS)
+
+---
+
+### Focus Areas
+- Building zero-latency, privacy-first browser utilities & custom add-ons
+- Workflow automation pipelines & structured media/data tooling
+- Technical code evaluation & Arabic (MSA) AI red teaming
